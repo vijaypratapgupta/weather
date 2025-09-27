@@ -19,7 +19,7 @@ body {
 
 @media (max-width: 480px) {
     .container {
-        width: 90%;
+        width: 75%;
     }
 }
 
